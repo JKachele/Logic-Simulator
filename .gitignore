@@ -34,3 +34,5 @@
 # Build and Neovim
 .cache/
 build/
+compile_commands.json
+neovim.json
